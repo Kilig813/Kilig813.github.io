@@ -1,4 +1,3 @@
-[回忆录.html](https://github.com/user-attachments/files/23789230/default.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
